@@ -1,0 +1,6 @@
+{
+  "name": "Bowfront Action Email Generator",
+  "description": "Turns weekly meeting notes into clean, team-formatted action-item emails for Bowfront Creative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
